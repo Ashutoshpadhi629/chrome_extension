@@ -1,0 +1,38 @@
+
+html{
+min-width: 200px;
+min-height: 250px;
+position: relative;
+vertical-align:middle;
+padding: 0%;
+margin-bottom: 0%;
+}
+body{
+    border: none;
+    margin: 0%;
+}
+.container{
+    height: 90vh;
+    border-width: 0ch;
+}
+#todolist
+{
+    height: 10vh;
+    width: 10vh;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#alarm_clock{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#time{
+    text-align: right;
+    height: 5vh;
+    margin-bottom: 0%;
+}
+#date{
+    text-align: right;
+    height: 5vh;
+    margin-bottom: 0%;
+}

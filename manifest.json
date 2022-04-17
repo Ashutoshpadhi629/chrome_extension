@@ -1,0 +1,13 @@
+{
+  "name": "EzyWa",
+  "description": "EzyWa",
+  "version": "2",
+  "manifest_version": 3,
+  "action": {
+      "default_popup": "popup.html",
+      "defaul_icons" : "logo.png"
+  },
+  "icons": {
+    "128": "logo.png"
+}
+}
